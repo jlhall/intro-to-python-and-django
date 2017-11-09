@@ -1,0 +1,7 @@
+https://developers.google.com/edu/python/strings
+https://github.com/jlhall/KnowYourDev/blob/master/know_your_dev.py
+https://github.com/n2o/django-skeleton
+https://github.com/nblock/pdb-cheatsheet
+https://www.openhub.net/p/django
+https://www.openhub.net/p/rails
+https://www.openhub.net/p/vim

@@ -1,6 +1,6 @@
 # Intro To Python & Django
 
-i.e. it really just looks different 😀
+i.e. it really just looks different 😀 This is an EXTREMELY brief sum up of python, and the rest is me talking about django, probably really fast, with production code examples. I've included the python exercises from the Google course.
 
 ### Schedule
 
@@ -16,8 +16,14 @@ There's a break in here somewhere??
 
 - [Google's Python Class](https://developers.google.com/edu/python/)
 - Two Scoops of Django 1.11 - Best Practices for the Django Web Framework
+- [Slicing, A Super Misunderstood Facet of Common Python](https://developers.google.com/edu/python/strings)
+- [An Unfinished Flask App](https://github.com/jlhall/KnowYourDev/blob/master/know_your_dev.py) note how open ended flask is right off the bat. I'd compare it to Express for JS, or Sinatra for Ruby.
+- [A Django Skeleton I Found](https://github.com/n2o/django-skeleton)
+- [Python Debugger Cheatsheet](https://github.com/nblock/pdb-cheatsheet)
+- [OpenHub's Django Page](https://www.openhub.net/p/django) for random django facts.
+- [OpenHub's Rails Page](https://www.openhub.net/p/rails) same as above, just for comparison.
 
-## Python Compared To Ruby
+## Python: A Quick Summary
 
 ### Strings
 
